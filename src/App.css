@@ -1,0 +1,42 @@
+
+.num{
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+  margin: auto;
+}
+.num1{
+  padding: 8px;
+  font-weight: bold;
+  color: black;
+  margin-top: 10px;
+}
+
+.cont{
+  width: 30%;
+  margin: auto;
+  height: 200px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px green;
+  margin-top: 20px;
+  padding: 20px;
+}
+.btn{
+  width: 55%;
+  margin: auto;
+  margin-top: 10px;
+}
+.btn1{
+  width: 46px;
+  padding: 10px;
+  height: 46px;
+  margin: 5px;
+  background-color: black;
+  color: white;
+}
+.error, .succes, .result{
+  font-size: 25px;
+  font-weight: bold;
+  position: relative;
+  left: 160px;
+}
